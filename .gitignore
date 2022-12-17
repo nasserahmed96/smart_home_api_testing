@@ -26,3 +26,6 @@ Hapis_App/python_forms/__pycache__
 Hapis_App/src/GoogleSheetsDataAccessObjects/credentials.json
 Hapis_App/src/GoogleSheetsDataAccessObjects/token.json
 
+models/__pycache__
+utils/__pycache__
+services/__pycache__
